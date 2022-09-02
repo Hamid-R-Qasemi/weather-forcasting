@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Weather Forcasting App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an exercise for using ReactJS, TailwindCSS and GraphQL API. You can search the name of your city and the app shows some data about weather in your considered city.
+
+_Note: Because of the API problem, after searching first city name, you must refresh the web page._
 
 ## Available Scripts
 
